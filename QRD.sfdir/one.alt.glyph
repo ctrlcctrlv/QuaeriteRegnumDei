@@ -1,0 +1,22 @@
+StartChar: one.alt
+Encoding: 65627 -1 163
+Width: 130
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Back
+SplineSet
+140 613 m 25
+ 140 0 l 1053
+EndSplineSet
+Fore
+SplineSet
+103.852539062 658.961914062 m 1
+ 110.923828125 651.890625 l 1
+ 110.923828125 38.890625 l 1
+ 26.0712890625 -45.9619140625 l 1
+ 19 -38.890625 l 1
+ 19 574.109375 l 1
+ 103.852539062 658.961914062 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,171 @@
+SplineFontDB: 3.2
+FontName: QuaeriteRegnumDei
+FullName: Quaerite Regnum Dei
+FamilyName: QuaeriteRegnumDei
+Weight: Regular
+Copyright: Copyright (c) 2019, fred
+UComments: "2019-2-25: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 300
+InvalidEm: 0
+LayerCount: 3
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+Layer: 2 0 "Back 2" 1
+XUID: [1021 575 -1819899406 3793008]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1551099167
+ModificationTime: 1564631452
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 99
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 99
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'QQQQ'
+Lookup: 1 0 0 "'salt' Stylistic Alternatives in Latin lookup 3" { "'salt' Stylistic Alternatives in Latin lookup 3-1" ("alt") } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'fina' Terminal Forms lookup 2" { "'fina' Terminal Forms lookup 2-1"  } ['fina' ('DFLT' <'dflt' > 'jamo' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'init' Initial Forms in Latin lookup 1" { "y"  } ['init' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "kern1" { "longs, f, etc" [150,0,2] "kern1-1" [40,4,6] "kern1-2" [165,16,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+KernClass2: 6 84 "longs, f, etc"
+ 7 glyph46
+ 5 longs
+ 11 longs_longs
+ 3 f_f
+ 5 f.alt
+ 11 exclam plus
+ 20 quotedbl quotesingle
+ 61 numbersign ampersand six glyph237 d g s et a.alt s.alt s.ss02
+ 31 percent colon p_e M.ss02 i.ss02
+ 54 parenleft f_f f_i Q.ss02 E.ss02 u.alt two.alt nine.alt
+ 12 parenright D
+ 8 asterisk
+ 63 comma period c e o q unie8bf o.alt c.alt c.ss02 g.alt q.alt c_o
+ 46 hyphen zero equal s.fina g_g e.ss03 c_e g.ss02
+ 27 slash M N.alt M.ss03 S.ss04
+ 64 one i m n r t u t_i t.alt m.ss03 u.ss03 n.ss03 m.alt n.alt r.alt
+ 73 two nine Q r.rotunda Q.splash z.alt Q.alt G.alt O.alt Q.ss04 Q.ss05 d.alt
+ 32 three r.rumrotunda y.init m.fina
+ 12 four unif1a6
+ 55 five question at p p_p i.alt t_h p.alt t_r question.alt
+ 5 seven
+ 66 eight C bar M.alt G.ss02 C.alt bar.alt e.alt e.ss04 C.ss02 six.alt
+ 9 semicolon
+ 4 less
+ 7 greater
+ 1 A
+ 29 glyph85 Y K.alt Y.ss02 K.ss05
+ 18 E d.insular S.ss05
+ 1 F
+ 42 G glyph46 longs_longs_i zero.alt eight.alt
+ 1 H
+ 3 I T
+ 1 J
+ 8 K V.ss03
+ 1 L
+ 1 N
+ 12 O S t.ss02 W
+ 27 P W.ss03 Y.alt B.alt W.ss02
+ 1 R
+ 7 U U.alt
+ 7 V V.alt
+ 1 X
+ 1 Z
+ 18 bracketleft b.ss03
+ 9 backslash
+ 12 bracketright
+ 11 asciicircum
+ 15 a question.ss02
+ 30 b k glyph48 NameMe.65596 k.alt
+ 41 h NameMe.65550 NameMe.65551 h.alt one.alt
+ 3 j w
+ 7 v w.alt
+ 7 x x.alt
+ 1 y
+ 1 z
+ 5 longs
+ 6 numero
+ 9 D.insular
+ 35 longs_longs f_l f.alt parenleft.alt
+ 6 b.ss02
+ 28 longs_t longs_t_o Q.ss03 f_r
+ 5 v.alt
+ 5 S.alt
+ 26 P.alt N.ss02 N.ss03 W.ss04
+ 13 h.final l.alt
+ 6 Z.ss02
+ 6 U.ss02
+ 5 F.alt
+ 5 Z.alt
+ 5 b.alt
+ 5 H.alt
+ 22 T.alt seven.alt A.ss02
+ 6 S.ss03
+ 12 R.alt P.ss02
+ 6 S.ss02
+ 20 R.ss02 K.ss04 K.ss02
+ 11 W.alt A.alt
+ 6 K.ss03
+ 13 N.ss04 N.ss05
+ 14 E.alt five.alt
+ 6 P.ss03
+ 6 e.ss02
+ 9 three.alt
+ 8 four.alt
+ 20 v.ss02 Y.ss04 Y.ss03
+ 6 V.ss02
+ 6 A.ss03
+ 14 parenright.alt
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -220 {} 0 {} -124 {} -75 {} -62 {} 0 {} 0 {} -107 {} -99 {} -125 {} -57 {} -110 {} -118 {} -156 {} -85 {} -128 {} -103 {} -64 {} -178 {} -88 {} 0 {} 0 {} -112 {} -105 {} -80 {} -13 {} 0 {} -126 {} 0 {} 0 {} -237 {} -90 {} 0 {} -34 {} 0 {} 0 {} -160 {} -36 {} 0 {} 0 {} 0 {} -71 {} -129 {} 0 {} 0 {} -82 {} -112 {} -108 {} -101 {} -127 {} -67 {} -58 {} -14 {} -49 {} 0 {} -40 {} 0 {} -51 {} 0 {} -31 {} -41 {} -147 {} -82 {} 0 {} -42 {} 0 {} 0 {} 0 {} -41 {} -96 {} 0 {} 0 {} -9 {} 0 {} -4 {} 0 {} -86 {} -41 {} -188 {} -24 {} 0 {} -76 {} 0 {} 0 {} -263 {} 0 {} -163 {} -140 {} -113 {} 0 {} 0 {} -145 {} -136 {} -168 {} -122 {} -162 {} -186 {} -206 {} -149 {} -243 {} -153 {} -151 {} -216 {} -202 {} 0 {} 0 {} -169 {} -153 {} -126 {} -28 {} 0 {} -148 {} 0 {} 0 {} -283 {} -144 {} 0 {} -41 {} 0 {} 0 {} -181 {} -62 {} 0 {} 0 {} 0 {} -78 {} -177 {} 0 {} 0 {} -141 {} -199 {} -166 {} -157 {} -198 {} -109 {} -82 {} -44 {} -83 {} 0 {} -77 {} 0 {} -101 {} 0 {} -72 {} -131 {} -258 {} -117 {} -16 {} -100 {} 0 {} 0 {} 0 {} -57 {} -146 {} 0 {} 0 {} -56 {} 0 {} -25 {} 0 {} -131 {} -50 {} -224 {} -43 {} -7 {} -84 {} 0 {} 0 {} -226 {} 0 {} -131 {} -106 {} -78 {} 0 {} 0 {} -112 {} -104 {} -136 {} -89 {} -128 {} -153 {} -171 {} -117 {} -208 {} -120 {} -120 {} -180 {} -167 {} 0 {} 0 {} -135 {} -124 {} -92 {} -5 {} 0 {} -107 {} 0 {} 0 {} -255 {} -112 {} 0 {} -26 {} 0 {} 0 {} -130 {} 0 {} 0 {} 0 {} 0 {} -58 {} -144 {} 0 {} 0 {} -109 {} -166 {} -134 {} -126 {} -166 {} -71 {} -53 {} 0 {} -49 {} 0 {} -38 {} 0 {} -65 {} 0 {} -9 {} -93 {} -223 {} -87 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} -113 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -99 {} -30 {} -191 {} 0 {} 0 {} -66 {} 0 {} 0 {} -233 {} 0 {} -132 {} -59 {} -28 {} 0 {} 0 {} -119 {} -111 {} -116 {} -46 {} -106 {} -114 {} -159 {} -77 {} -126 {} -99 {} -55 {} -195 {} -77 {} 0 {} 0 {} -96 {} -95 {} -49 {} 0 {} 0 {} -159 {} 0 {} 0 {} -230 {} -75 {} 0 {} -42 {} 0 {} 0 {} -86 {} 0 {} 0 {} 0 {} -36 {} -64 {} -129 {} 0 {} 0 {} -89 {} -94 {} -107 {} -102 {} -113 {} -30 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} -48 {} -123 {} -57 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} -58 {} 0 {} 0 {} 0 {} 0 {} -90 {} -61 {} -174 {} 0 {} 0 {} -168 {} -38 {} 0 {} -209 {} 0 {} -114 {} -55 {} -47 {} 0 {} 0 {} -98 {} -90 {} -118 {} -34 {} -97 {} -98 {} -144 {} -65 {} -82 {} -89 {} -36 {} -168 {} -50 {} 0 {} 0 {} -98 {} -98 {} -69 {} -13 {} 0 {} -95 {} 0 {} 0 {} -231 {} -76 {} 0 {} -44 {} -35 {} 0 {} -179 {} -58 {} 0 {} 0 {} 0 {} -65 {} -117 {} 0 {} -3 {} -67 {} -89 {} -94 {} -89 {} -109 {} -59 {} -66 {} -36 {} -48 {} 0 {} -33 {} 0 {} -38 {} 0 {} -27 {} 0 {} -117 {} -81 {} -47 {} -24 {} 0 {} 0 {} 0 {} -96 {} -86 {} 0 {} 0 {} -9 {} -15 {} -17 {} 0 {} -75 {} -60 {} -185 {} -53 {} 0 {} -60 {} 0 {}
+KernClass2: 5 6 "kern1-2"
+ 1 r
+ 5 longs
+ 1 c
+ 7 o o.alt
+ 1 a
+ 1 e
+ 1 t
+ 1 c
+ 6 s.fina
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -200 {} -140 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {}
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 0
+WidthSeparation: 40
+WinInfo: 22 11 5
+BeginPrivate: 0
+EndPrivate
+Grid
+-1100 613 m 0
+ 2200 613 l 1024
+  Named: "b top"
+-1000 433.99987793 m 0
+ 2000 433.99987793 l 1024
+  Named: "x-height (a)"
+EndSplineSet
+EndSplineFont

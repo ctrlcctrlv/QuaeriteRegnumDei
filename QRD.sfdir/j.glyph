@@ -1,0 +1,17 @@
+StartChar: j
+Encoding: 106 106 70
+Width: 165
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Fore
+SplineSet
+134.34375 434 m 17
+ 134.34375 -58 l 1
+ -73.046875 -262.961914062 l 1
+ -80.1181640625 -255.890625 l 1
+ 13.8818359375 -155.890625 l 1
+ 13.8818359375 434 l 9
+ 134.34375 434 l 17
+EndSplineSet
+EndChar

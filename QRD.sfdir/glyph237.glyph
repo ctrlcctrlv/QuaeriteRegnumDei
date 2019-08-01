@@ -1,0 +1,17 @@
+StartChar: glyph237
+Encoding: 95 95 237
+Width: 588
+VWidth: 0
+Flags: MW
+LayerCount: 3
+Fore
+SplineSet
+42 -0 m 1
+ 83.986328125 42.5732421875 l 1
+ 585.986328125 42.5732421875 l 1
+ 544 -0 l 1
+ 502.013671875 -42.5732421875 l 1
+ 0.013671875 -42.5732421875 l 1
+ 42 -0 l 1
+EndSplineSet
+EndChar
