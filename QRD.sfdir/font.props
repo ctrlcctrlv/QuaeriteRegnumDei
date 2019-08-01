@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
 FontName: QuaeriteRegnumDei
 FullName: Quaerite Regnum Dei
-FamilyName: QuaeriteRegnumDei
+FamilyName: Quaerite Regnum Dei
 Weight: Regular
-Copyright: Copyright (c) 2019, fred
+Copyright: Copyright (c) 2019, Fredrick R. Brennan <copypaste@kittens.ph>. This font is licensed under the SIL Open Font License version 1.1.
 UComments: "2019-2-25: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -22,8 +22,8 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1551099167
-ModificationTime: 1564634860
-PfmFamily: 17
+ModificationTime: 1564637063
+PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 99
@@ -41,6 +41,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2FamilyClass: 2306
 OS2Vendor: 'QQQQ'
 Lookup: 1 0 0 "'salt' Stylistic Alternatives in Latin lookup 3" { "'salt' Stylistic Alternatives in Latin lookup 3-1" ("alt") } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'fina' Terminal Forms lookup 2" { "'fina' Terminal Forms lookup 2-1"  } ['fina' ('DFLT' <'dflt' > 'jamo' <'dflt' > 'latn' <'dflt' > ) ]
@@ -150,6 +151,7 @@ KernClass2: 5 6 "kern1-2"
  1 c
  6 s.fina
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -200 {} -140 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {}
+LangName: 1033
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -158,7 +160,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 40
-WinInfo: 0 19 8
+WinInfo: 232 8 2
 BeginPrivate: 0
 EndPrivate
 Grid
