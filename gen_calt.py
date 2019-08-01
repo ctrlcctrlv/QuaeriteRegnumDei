@@ -24,13 +24,25 @@ for k, l in D.items():
 
   s = sorted(l)
 
+  print("sub {0} @letters @letters @letters @letters {0}' by {1};".format(k, s[0]))
+  print("sub {0} @letters @letters @letters {0}' by {1};".format(k, s[0]))
   print("sub {0} @letters @letters {0}' by {1};".format(k, s[0]))
   print("sub {0} @letters {0}' by {1};".format(k, s[0]))
   print("sub {0} {0}' by {1};".format(k, s[0]))
+
+  if len(l) >= 2:
+      print("sub {0} {0}.alt {0}' by {1};".format(k, s[1]))
 
 print("feature salt { lookup salt1 {")
 for k, l in D.items():
     if k+".alt" in l:
       print("sub {0} by {1};".format(k, k+".alt"))
 print("} salt1; } salt;")
+
+for fea in ["ss02", "ss03", "ss04", "ss05"]:
+    print("feature {0} {{ lookup {0}1 {{".format(fea))
+    for k, l in D.items():
+        if k+'.'+fea in l:
+          print("sub {0} by {1};".format(k, k+'.'+fea))
+    print("}} {0}1; }} {0};".format(fea))
 
