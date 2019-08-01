@@ -1,5 +1,12 @@
 # Quaerite Regnum Dei
 
+* **[Click here to download the font](https://github.com/ctrlcctrlv/QuaeriteRegnumDei/raw/master/QuaeriteRegnumDei.otf)**
+* **[Click here to see all the available glyphs](https://github.com/ctrlcctrlv/QuaeriteRegnumDei/raw/master/info/pr-QuaeriteRegnumDei.pdf)**
+
+
+![0](https://raw.githubusercontent.com/ctrlcctrlv/QuaeriteRegnumDei/master/info/variants.png)
+![1](https://github.com/ctrlcctrlv/QuaeriteRegnumDei/raw/master/info/QRD.png)
+
 _Quaerite Regnum Dei_, Latin for &laquo;Seek ye the Kingdom of God&raquo;, is a libre open source font. Quaerite Regnum Dei is based on a beautiful Spanish _rotunda_ hand found in the Misal rico de Cisneros. In the early 16th century, Francisco Jiménez de Cisneros, who was a cardinal in Spain, commissioned local monks/scribes to create a missal to be used in his Toledo cathedral.
 
 [The result](http://bdh.bne.es/bnesearch/detalle/bdh0000012826) is held by the Spanish National Library, who graciously created high resolution scans of it available to the whole world. I used their scans to make this font.
