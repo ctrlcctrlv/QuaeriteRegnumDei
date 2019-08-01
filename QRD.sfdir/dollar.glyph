@@ -3,7 +3,9 @@ Encoding: 36 36 245
 Width: 439
 VWidth: 0
 InSpiro: 1
-Flags: HWO
+Flags: W
+HStem: 182.489 77.0215<158.477 285.86>
+VStem: 183.67 68.6602<-111.539 177.577 182.489 260.511 264.777 523.538>
 LayerCount: 3
 Back
 SplineSet
