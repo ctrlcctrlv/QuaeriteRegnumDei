@@ -2,7 +2,7 @@ StartChar: longs
 Encoding: 383 383 57
 Width: 418
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -34,20 +34,12 @@ SplineSet
     403.166 612.667 v
     168.166 6088.67 z
   EndSpiro
-39.166015625 0 m 1
- 39.166015625 513 l 1
+51.7197265625 0 m 1
+ 51.7197265625 520.501953125 l 1
  148.498046875 582 l 1
  172.166015625 596 l 1
  172.166015625 0 l 1
- 39.166015625 0 l 1
-  Spiro
-    39.1655 0 v
-    39.1655 513 v
-    148.499 582 v
-    172.166 596 v
-    172.166 0 v
-    0 0 z
-  EndSpiro
+ 51.7197265625 0 l 1
 EndSplineSet
 Kerns2: 12 -160 "kern1-1" 14 -200 "kern1-1"
 EndChar

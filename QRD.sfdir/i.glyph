@@ -1,16 +1,16 @@
 StartChar: i
 Encoding: 105 105 15
-Width: 208
+Width: 160
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-41.4990234375 434 m 5
- 162.499023438 434 l 5
- 162.5 0 l 1
- 41.5 0 l 1
- 41.4990234375 434 l 5
+19 434 m 1
+ 139 434 l 1
+ 139.000976562 0 l 1
+ 19.0009765625 0 l 1
+ 19 434 l 1
 EndSplineSet
 Substitution2: "'salt' Stylistic Alternatives in Latin lookup 3-1" i.alt
 EndChar

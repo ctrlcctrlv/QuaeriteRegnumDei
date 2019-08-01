@@ -62,4 +62,5 @@ SplineSet
  397.004882812 10 l 1
  397.004882812 0 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t h
 EndChar
