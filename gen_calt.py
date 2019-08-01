@@ -27,3 +27,10 @@ for k, l in D.items():
   print("sub {0} @letters @letters {0}' by {1};".format(k, s[0]))
   print("sub {0} @letters {0}' by {1};".format(k, s[0]))
   print("sub {0} {0}' by {1};".format(k, s[0]))
+
+print("feature salt { lookup salt1 {")
+for k, l in D.items():
+    if k+".alt" in l:
+      print("sub {0} by {1};".format(k, k+".alt"))
+print("} salt1; } salt;")
+

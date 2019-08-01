@@ -1,8 +1,9 @@
+# Most of this file is made by gen_calt.py
+
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 @letters = [space a b c d e f g h i j k l m n o p q r s t u v w x y z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
 
-# This feature is auto-generated; see gen_calt.py
 feature calt {
     lookup calt1 {
 sub p @letters @letters @letters @letters p' by p.alt;
@@ -255,4 +256,124 @@ sub F @letters F' by F.alt;
 sub F F' by F.alt;
     } calt1;   
 } calt;
+
+feature salt { lookup salt1 {
+sub p by p.alt;
+sub o by o.alt;
+sub a by a.alt;
+sub P by P.alt;
+sub r by r.alt;
+sub s by s.alt;
+sub A by A.alt;
+sub u by u.alt;
+sub i by i.alt;
+sub m by m.alt;
+sub q by q.alt;
+sub M by M.alt;
+sub b by b.alt;
+sub d by d.alt;
+sub S by S.alt;
+sub R by R.alt;
+sub e by e.alt;
+sub g by g.alt;
+sub n by n.alt;
+sub f by f.alt;
+sub l by l.alt;
+sub z by z.alt;
+sub G by G.alt;
+sub x by x.alt;
+sub c by c.alt;
+sub h by h.alt;
+sub t by t.alt;
+sub T by T.alt;
+sub C by C.alt;
+sub E by E.alt;
+sub O by O.alt;
+sub H by H.alt;
+sub v by v.alt;
+sub k by k.alt;
+sub N by N.alt;
+sub w by w.alt;
+sub Q by Q.alt;
+sub V by V.alt;
+sub bar by bar.alt;
+sub W by W.alt;
+sub Y by Y.alt;
+sub zero by zero.alt;
+sub one by one.alt;
+sub two by two.alt;
+sub three by three.alt;
+sub four by four.alt;
+sub five by five.alt;
+sub six by six.alt;
+sub seven by seven.alt;
+sub eight by eight.alt;
+sub nine by nine.alt;
+sub K by K.alt;
+sub U by U.alt;
+sub Z by Z.alt;
+sub F by F.alt;
+sub question by question.alt;
+sub parenleft by parenleft.alt;
+sub parenright by parenright.alt;
+} salt1; } salt;
+feature ss02 { lookup ss021 {
+sub P by P.ss02;
+sub s by s.ss02;
+sub A by A.ss02;
+sub i by i.ss02;
+sub M by M.ss02;
+sub b by b.ss02;
+sub S by S.ss02;
+sub R by R.ss02;
+sub e by e.ss02;
+sub g by g.ss02;
+sub G by G.ss02;
+sub c by c.ss02;
+sub t by t.ss02;
+sub C by C.ss02;
+sub E by E.ss02;
+sub v by v.ss02;
+sub N by N.ss02;
+sub Q by Q.ss02;
+sub V by V.ss02;
+sub W by W.ss02;
+sub Y by Y.ss02;
+sub K by K.ss02;
+sub U by U.ss02;
+sub Z by Z.ss02;
+sub question by question.ss02;
+} ss021; } ss02;
+feature ss03 { lookup ss031 {
+sub P by P.ss03;
+sub A by A.ss03;
+sub u by u.ss03;
+sub m by m.ss03;
+sub M by M.ss03;
+sub b by b.ss03;
+sub S by S.ss03;
+sub e by e.ss03;
+sub n by n.ss03;
+sub N by N.ss03;
+sub Q by Q.ss03;
+sub V by V.ss03;
+sub W by W.ss03;
+sub Y by Y.ss03;
+sub K by K.ss03;
+} ss031; } ss03;
+feature ss04 { lookup ss041 {
+sub S by S.ss04;
+sub e by e.ss04;
+sub N by N.ss04;
+sub Q by Q.ss04;
+sub W by W.ss04;
+sub Y by Y.ss04;
+sub K by K.ss04;
+} ss041; } ss04;
+feature ss05 { lookup ss051 {
+sub S by S.ss05;
+sub N by N.ss05;
+sub Q by Q.ss05;
+sub K by K.ss05;
+} ss051; } ss05;
 
