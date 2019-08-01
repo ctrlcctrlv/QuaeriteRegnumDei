@@ -157,5 +157,5 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Substitution2: "y" y.init
+Substitution2: "y" yinit
 EndChar

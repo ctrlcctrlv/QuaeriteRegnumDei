@@ -73,4 +73,5 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" f f
 EndChar
