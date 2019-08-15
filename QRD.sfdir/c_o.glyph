@@ -147,5 +147,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+LCarets2: 1 330
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" c o
 EndChar

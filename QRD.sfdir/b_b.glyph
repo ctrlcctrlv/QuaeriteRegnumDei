@@ -1,4 +1,4 @@
-StartChar: NameMe.65596
+StartChar: b_b
 Encoding: 65602 -1 135
 Width: 677
 VWidth: 0
@@ -67,4 +67,6 @@ SplineSet
  476.081054688 324.80859375 443.025390625 346.380859375 406.763671875 358.489257812 c 1
  377.061523438 339.654296875 l 1
 EndSplineSet
+LCarets2: 1 325
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" b b
 EndChar

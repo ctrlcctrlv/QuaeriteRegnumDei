@@ -2,7 +2,7 @@ StartChar: g_g
 Encoding: 65573 -1 105
 Width: 677
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
@@ -116,5 +116,6 @@ SplineSet
  208.614257812 48.0166015625 l 1
 EndSplineSet
 Kerns2: 105 -50 "kern1-1"
+LCarets2: 1 307
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" g g
 EndChar
