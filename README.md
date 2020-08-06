@@ -17,6 +17,6 @@ This font is almost done, but like all open source projects, you can help, and t
 
 * The missal contains many combining marks; I have yet to implement any of them.
 * Some glyphs in the missal might be missing. I did not look at every page. If you find a missing glyph, symbol or ligature _in the big rotunda hand_, please open a bug report. If you find a missing interesting alternate, do so as well please.
-* It has spacing issues that could use sorting some day;&dagger; I didn't focus too much on spacing as due to its very thin minor stroke width. Quaerite Regnum Dei is best for large headlines, which I figured people would manually space. If you find a particularly badly spaced glyph, open a bug report. Please note what value you think it should be, or open a PR against features.fea to add it.
+* It has spacing issues that could use sorting some day;&dagger; I didn't focus too much on spacing as due to its very thin minor stroke width, Quaerite Regnum Dei is best for large headlines, which I figured people would manually space. If you find a particularly badly spaced glyph, open a bug report. Please note what value you think it should be, or open a PR against features.fea to add it.
 
 <sup>&dagger; If not by me, why not you! :-)</sup>
